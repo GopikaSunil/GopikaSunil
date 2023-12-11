@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GopikaSunil
-- 👀 I’m interested in web development and coding(beginner in both)...
-- 🌱 I’m currently learning ...Computer Science Engineering at Amal Jyothi College of Engineering
+- 👋 Hi, I’m @Gopika S 
+- 👀 I’m interested in Data analytics, web development and coding..
+- 🌱 I have completed my undergraduate degree...Computer Science Engineering at Amal Jyothi College of Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/gopika-s-2023...
 
